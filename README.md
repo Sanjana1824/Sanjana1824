@@ -7,4 +7,4 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renukacsit&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renukacsit&layout=compact)
-## 📫 Connect with Me- ✉️ Email: sanjana@example.com- 🔗 LinkedIn: [Renuka Profile](https://linkedin.com/in/renuka-example)
+## 📫 Connect with Me- ✉️ Email: sanjana@example.com- 🔗 LinkedIn: [Sanjana Profile](https://linkedin.com/in/Sanjana-example)
